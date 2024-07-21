@@ -1,0 +1,102 @@
+{
+  "BreadBoard": {
+    "description": "A breadboard is a reusable platform used to build and prototype electronic circuits.",
+    "image": "assets/BreadBoard.jpg"
+  },
+  "Capacitor": {
+    "description": "A capacitor is a passive electronic component that stores energy in the form of an electric field.",
+    "image": "assets/Capacitor.jpg"
+  },
+  "Crystal": {
+    "description": "A crystal is a type of oscillator that uses a quartz crystal to regulate the frequency of a circuit.",
+    "image": "assets/Crystal.jpg"
+  },
+  "DcMotor": {
+    "description": "A DC motor is a type of electric motor that uses direct current to generate torque.",
+    "image": "assets/DC_Motor.jpg"
+  },
+  "Buzzer": {
+    "description": "A buzzer is a type of electromechanical transducer that produces sound when an electric current is passed through it.",
+    "image": "assets/Buzzer.jpg"
+  },
+  "RotarySwitch": {
+    "description": "A rotary switch is a type of switch that uses a rotating shaft to select between multiple positions.",
+    "image": "assets/Rotary_Switch.jpg"
+  },
+  "Fuse": {
+    "description": "A fuse is a safety device that melts or breaks when excessive current flows through it, protecting the circuit from damage.",
+    "image": "assets/Fuse.jpg"
+  },
+  "HeatSink": {
+    "description": "A heat sink is a component that absorbs and dissipates heat away from a device or circuit.",
+    "image": "assets/Heat_Sink.jpg"
+  },
+  "LCD-Display": {
+    "description": "An LCD display is a type of flat-panel display that uses liquid crystals to block or allow light to pass through.",
+    "image": "assets/LCD_Display.jpg"
+  },
+  "PCB-Adaptor": {
+    "description": "A PCB adaptor is a component that connects two or more printed circuit boards (PCBs) together.",
+    "image": "assets/PCB_Adaptor.jpg"
+  },
+  "Resistor": {
+    "description": "A resistor is a passive electronic component that reduces the voltage or current in a circuit.",
+    "image": "assets/Resitor.jpg"
+  },
+  "Semiconductor": {
+    "description": "A semiconductor is a type of material that has electrical conductivity between that of a conductor and an insulator.",
+    "image": "assets/Semiconductors.jpg"
+  },
+  "Speaker": {
+    "description": "A speaker is a type of transducer that converts electrical energy into sound waves.",
+    "image": "assets/Speaker.jpg"
+  },
+  "Attenuator": {
+    "description": "An attenuator is a component that reduces the amplitude of a signal without distorting its waveform.",
+    "image": "assets/Attenuator.jpg"
+  },
+  "Jumper-Cable": {
+    "description": "A jumper cable is a short length of wire used to connect two points in a circuit.",
+    "image": "assets/Jumper_Cable.jpg"
+  },
+  "LED": {
+    "description": "A light-emitting diode (LED) is a type of semiconductor that emits light when an electric current passes through it.",
+    "image": "assets/LED.jpeg"
+  },
+  "MemoryChip": {
+    "description": "A memory chip is a type of integrated circuit that stores data or program instructions.",
+    "image": "assets/Memory_Chip.jpg"
+  },
+  "Relay": {
+    "description": "A relay is an electrically operated switch that uses an electromagnet to move a contact.",
+    "image": "assets/Relay.jpg"
+  },
+  "Rheostat": {
+    "description": "A rheostat is a type of variable resistor that allows the resistance of a circuit to be adjusted.",
+    "image": "assets/Rheostat.jpg"
+  },
+  "Stabilizer": {
+    "description": "A stabilizer is a component that regulates the voltage or current in a circuit to prevent fluctuations.",
+    "image": "assets/Stabilizer.jpg"
+  },
+  "Transistor": {
+    "description": "A transistor is a type of semiconductor that amplifies or switches electronic signals.",
+    "image": "assets/Transistor.jpeg"
+  },
+  "Switch": {
+    "description": "A switch is a component that opens or closes a circuit to control the flow of electricity.",
+    "image": "assets/Switch.jpg"
+  },
+  "Inductor": {
+    "description": "An inductor is a passive electronic component that stores energy in a magnetic field.",
+    "image": "assets/Inductor.jpg"
+  },
+  "Sensor": {
+    "description": "A sensor is a component that detects and measures physical or environmental parameters such as temperature, pressure, light, sound, or motion.",
+    "image": "assets/Sensor.jpg"
+  },
+  "Diode": {
+    "description": "A diode is a type of semiconductor that allows current to flow in one direction but blocks it in the other direction.",
+    "image": "assets/Diode.jpg"
+  }
+}
